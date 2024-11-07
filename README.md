@@ -1,5 +1,5 @@
 <!-- TUGAS UTS PROGRAMAN VISUAL -->
-  #NAMA = Satria Dwi Aprianto
+  # NAMA = Satria Dwi Aprianto
   KELAS = TI.22.A5
   
 
